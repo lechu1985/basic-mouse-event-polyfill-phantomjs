@@ -1,6 +1,10 @@
 # basic-mouse-event-polyfill-phantomjs
 
+[![Build status](https://api.travis-ci.org/lechu1985/basic-mouse-event-polyfill-phantomjs.svg?branch=master)]
+
 A simple polyfill to help PhantomJS out.
+
+
 
 Function originally taken from https://github.com/ariya/phantomjs/issues/11289
 @ghiscoding (which was taken from [MouseEvent-Polyfill](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent/MouseEvent#Polyfill)
