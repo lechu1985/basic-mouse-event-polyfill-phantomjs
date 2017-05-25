@@ -1,6 +1,6 @@
 {
   "name": "basic-mouse-event-polyfill-phantomjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This is a simple polyfill to help PhantomJS with handling Mouse Events",
   "main": "index.js",
   "scripts": {
