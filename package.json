@@ -1,0 +1,31 @@
+{
+  "name": "basic-mouse-event-polyfill-phantomjs",
+  "version": "0.0.1",
+  "description": "This is a simple polyfill to help PhantomJS with handling Mouse Events",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start karma.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lechu1985/basic-mouse-event-polyfill-phantomjs.git"
+  },
+  "keywords": [
+    "mouseevent",
+    "phantomjs",
+    "polyfill"
+  ],
+  "author": "Lesław Wąsowicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lechu1985/basic-mouse-event-polyfill-phantomjs/issues"
+  },
+  "homepage": "https://github.com/lechu1985/basic-mouse-event-polyfill-phantomjs#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.5.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-phantomjs-launcher": "^1.0.2"
+  },
+  "dependencies": {}
+}
