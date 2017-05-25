@@ -4,13 +4,14 @@
 
 A simple polyfill to help PhantomJS out.
 
+It is based on: [MouseEvent-Polyfill](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent/MouseEvent#Polyfill)
+and it helps Phantom JS with this issue: [#11289](https://github.com/ariya/phantomjs/issues/11289)
 
-
-Function originally taken from https://github.com/ariya/phantomjs/issues/11289
-@ghiscoding (which was taken from [MouseEvent-Polyfill](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent/MouseEvent#Polyfill)
 
 Install for dev via:
 
 - `npm install basic-mouse-event-polyfill-phantomjs --save-dev`
 - `yarn add basic-mouse-event-polyfill-phantomjs --dev`
 
+
+To use it simply `require` it in the *spec* file.
