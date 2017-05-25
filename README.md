@@ -1,6 +1,6 @@
 # basic-mouse-event-polyfill-phantomjs
 
-[[Build status](https://api.travis-ci.org/lechu1985/basic-mouse-event-polyfill-phantomjs.svg?branch=master)]
+[![Build Status](https://travis-ci.org/lechu1985/basic-mouse-event-polyfill-phantomjs.svg?branch=master)](https://travis-ci.org/lechu1985/basic-mouse-event-polyfill-phantomjs)
 
 A simple polyfill to help PhantomJS out.
 
